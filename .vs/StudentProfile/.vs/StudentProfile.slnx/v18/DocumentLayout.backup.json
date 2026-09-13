@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\GitHub-Beginner-Lab\\StudentProfile\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\GitHub-Beginner-Lab\\.vs\\StudentProfile\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21DA9F51-D91B-40EC-869E-80EF33CEF0CD}|StudentProfile\\StudentProfile.csproj|c:\\users\\user\\source\\repos\\github-beginner-lab\\studentprofile\\studentprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21DA9F51-D91B-40EC-869E-80EF33CEF0CD}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|c:\\users\\user\\source\\repos\\github-beginner-lab\\.vs\\studentprofile\\studentprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21DA9F51-D91B-40EC-869E-80EF33CEF0CD}|StudentProfile\\StudentProfile.csproj|c:\\users\\user\\source\\repos\\github-beginner-lab\\studentprofile\\studentprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{21DA9F51-D91B-40EC-869E-80EF33CEF0CD}|StudentProfile\\StudentProfile.csproj|C:\\Users\\USER\\source\\repos\\GitHub-Beginner-Lab\\.vs\\StudentProfile\\studentprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{21DA9F51-D91B-40EC-869E-80EF33CEF0CD}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,14 +37,22 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GitHub-Beginner-Lab\\StudentProfile\\StudentProfile\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GitHub-Beginner-Lab\\.vs\\StudentProfile\\StudentProfile\\Form1.cs",
               "RelativeDocumentMoniker": "StudentProfile\\Form1.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\GitHub-Beginner-Lab\\StudentProfile\\StudentProfile\\Form1.cs*",
-              "RelativeToolTip": "StudentProfile\\Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GitHub-Beginner-Lab\\.vs\\StudentProfile\\StudentProfile\\Form1.cs",
+              "RelativeToolTip": "StudentProfile\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-13T14:03:24.809Z",
               "EditorCaption": ""
@@ -53,13 +61,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GitHub-Beginner-Lab\\StudentProfile\\StudentProfile\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GitHub-Beginner-Lab\\.vs\\StudentProfile\\StudentProfile\\Form1.cs",
               "RelativeDocumentMoniker": "StudentProfile\\Form1.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\GitHub-Beginner-Lab\\StudentProfile\\StudentProfile\\Form1.cs [Design]*",
-              "RelativeToolTip": "StudentProfile\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GitHub-Beginner-Lab\\StudentProfile\\StudentProfile\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\StudentProfile\\StudentProfile\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T14:02:24.262Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-09-13T14:02:24.262Z"
             }
           ]
         }
