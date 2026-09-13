@@ -9,7 +9,7 @@ namespace StudentProfile
 
         private void btnEnter_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Student Profile — JoseGitHub.");
+            MessageBox.Show("Student Profile — GitHub Beginner Lab.");
         }
     }
 }
